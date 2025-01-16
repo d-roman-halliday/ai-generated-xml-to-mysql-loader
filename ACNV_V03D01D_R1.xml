@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<product id="Animated Canvases" name="Animated Canvases" version="1" singlecontent="true">
+<volume id="Animated Canvases Collection 3" name="Animated Canvases Collection 3" number="3" sourcefiletype="mov" preview_discid="ACNV_V03D01D_R1" preview_suffix=".mov" preview_install_dir="Juicer3" preview_path_on_disc="Juicer3/" preview_thumbnail_suffix=".jpg" install_size_img="1" install_size_img_mov="10" totalPreviewSize="185" totalSourceSize="14464.62" baseJ3Version="3.03 Build 258">
+<disc id="ACNV_V03D01D_R1" number="1">
+<parent id="Source">
+<content id="All Star_HD" type="1" name="" originalfps="30" frames="300" description="Animated Background" resolution="hd" resx="1920" resy="1080" base=""><keywords></keywords></content>
+<content id="Amber Rays_HD" type="1" name="" originalfps="30" frames="300" description="Animated Background" resolution="hd" resx="1920" resy="1080" base=""><keywords></keywords></content>
+<content id="Approaching Doom_HD" type="1" name="" originalfps="30" frames="600" description="Animated Background" resolution="hd" resx="1920" resy="1080" base=""><keywords></keywords></content>
+<content id="Balloon Rise_HD" type="1" name="" originalfps="30" frames="600" description="Animated Background" resolution="hd" resx="1920" resy="1080" base=""><keywords></keywords></content>
+<content id="Blending Pipes_HD" type="1" name="" originalfps="30" frames="450" description="Animated Background" resolution="hd" resx="1920" resy="1080" base=""><keywords></keywords></content>
+<content id="Bundle Of Joy_HD" type="1" name="" originalfps="30" frames="600" description="Animated Background" resolution="hd" resx="1920" resy="1080" base=""><keywords></keywords></content>
+<content id="Center Of Attention_HD" type="1" name="" originalfps="30" frames="300" description="Animated Background" resolution="hd" resx="1920" resy="1080" base=""><keywords></keywords></content>
+<content id="Cloud Interference_HD" type="1" name="" originalfps="30" frames="600" description="Animated Background" resolution="hd" resx="1920" resy="1080" base=""><keywords></keywords></content>
+<content id="Coin Collection_HD" type="1" name="" originalfps="30" frames="300" description="Animated Background" resolution="hd" resx="1920" resy="1080" base=""><keywords></keywords></content>
+<content id="Dazzling Moonlight_HD" type="1" name="" originalfps="30" frames="300" description="Animated Background" resolution="hd" resx="1920" resy="1080" base=""><keywords></keywords></content>
+<content id="Diagonal Slide_HD" type="1" name="" originalfps="30" frames="450" description="Animated Background" resolution="hd" resx="1920" resy="1080" base=""><keywords></keywords></content>
+<content id="Different Positions_HD" type="1" name="" originalfps="30" frames="300" description="Animated Background" resolution="hd" resx="1920" resy="1080" base=""><keywords></keywords></content>
+<content id="Firefly Goodbye_HD" type="1" name="" originalfps="30" frames="150" description="Animated Background" resolution="hd" resx="1920" resy="1080" base=""><keywords></keywords></content>
+<content id="Fitting Frames_HD" type="1" name="" originalfps="30" frames="300" description="Animated Background" resolution="hd" resx="1920" resy="1080" base=""><keywords></keywords></content>
+<content id="Flying Colors_HD" type="1" name="" originalfps="30" frames="600" description="Animated Background" resolution="hd" resx="1920" resy="1080" base=""><keywords></keywords></content>
+<content id="Frame Impression_HD" type="1" name="" originalfps="30" frames="300" description="Animated Background" resolution="hd" resx="1920" resy="1080" base=""><keywords></keywords></content>
+<content id="French Parade_HD" type="1" name="" originalfps="30" frames="600" description="Animated Background" resolution="hd" resx="1920" resy="1080" base=""><keywords></keywords></content>
+<content id="Garden Whispers_HD" type="1" name="" originalfps="30" frames="600" description="Animated Background" resolution="hd" resx="1920" resy="1080" base=""><keywords></keywords></content>
+<content id="Happy Summer_HD" type="1" name="" originalfps="30" frames="450" description="Animated Background" resolution="hd" resx="1920" resy="1080" base=""><keywords></keywords></content>
+<content id="Heavenly Beam_HD" type="1" name="" originalfps="30" frames="300" description="Animated Background" resolution="hd" resx="1920" resy="1080" base=""><keywords></keywords></content>
+</parent>
+</disc>
+<disc id="ACNV_V03D02D_R1" number="2">
+<parent id="Source">
+<content id="Hiding Magic_HD" type="1" name="" originalfps="30" frames="300" description="Animated Background" resolution="hd" resx="1920" resy="1080" base=""><keywords></keywords></content>
+<content id="Higher Than The Sky_HD" type="1" name="" originalfps="30" frames="450" description="Animated Background" resolution="hd" resx="1920" resy="1080" base=""><keywords></keywords></content>
+<content id="Hue Progression_HD" type="1" name="" originalfps="30" frames="450" description="Animated Background" resolution="hd" resx="1920" resy="1080" base=""><keywords></keywords></content>
+<content id="I Put A Spell On You_HD" type="1" name="" originalfps="30" frames="300" description="Animated Background" resolution="hd" resx="1920" resy="1080" base=""><keywords></keywords></content>
+<content id="Magic Unleashed_HD" type="1" name="" originalfps="30" frames="150" description="Animated Background" resolution="hd" resx="1920" resy="1080" base=""><keywords></keywords></content>
+<content id="Restricted Area_HD" type="1" name="" originalfps="30" frames="600" description="Animated Background" resolution="hd" resx="1920" resy="1080" base=""><keywords></keywords></content>
+<content id="Sahara Evenings_HD" type="1" name="" originalfps="30" frames="300" description="Animated Background" resolution="hd" resx="1920" resy="1080" base=""><keywords></keywords></content>
+<content id="Sea Outside_HD" type="1" name="" originalfps="30" frames="225" description="Animated Background" resolution="hd" resx="1920" resy="1080" base=""><keywords></keywords></content>
+<content id="Searchlights_HD" type="1" name="" originalfps="30" frames="300" description="Animated Background" resolution="hd" resx="1920" resy="1080" base=""><keywords></keywords></content>
+<content id="Sharp Stops_HD" type="1" name="" originalfps="30" frames="600" description="Animated Background" resolution="hd" resx="1920" resy="1080" base=""><keywords></keywords></content>
+<content id="Shifting Midnight_HD" type="1" name="" originalfps="30" frames="450" description="Animated Background" resolution="hd" resx="1920" resy="1080" base=""><keywords></keywords></content>
+<content id="Slowly Spreading_HD" type="1" name="" originalfps="30" frames="300" description="Animated Background" resolution="hd" resx="1920" resy="1080" base=""><keywords></keywords></content>
+<content id="Smooth Ripples_HD" type="1" name="" originalfps="30" frames="150" description="Animated Background" resolution="hd" resx="1920" resy="1080" base=""><keywords></keywords></content>
+<content id="Soul Of Sin_HD" type="1" name="" originalfps="30" frames="450" description="Animated Background" resolution="hd" resx="1920" resy="1080" base=""><keywords></keywords></content>
+<content id="Square Resolution_HD" type="1" name="" originalfps="30" frames="450" description="Animated Background" resolution="hd" resx="1920" resy="1080" base=""><keywords></keywords></content>
+<content id="Star Attraction_HD" type="1" name="" originalfps="30" frames="300" description="Animated Background" resolution="hd" resx="1920" resy="1080" base=""><keywords></keywords></content>
+<content id="Start The Party_HD" type="1" name="" originalfps="30" frames="600" description="Animated Background" resolution="hd" resx="1920" resy="1080" base=""><keywords></keywords></content>
+<content id="Strange Divisions_HD" type="1" name="" originalfps="30" frames="450" description="Animated Background" resolution="hd" resx="1920" resy="1080" base=""><keywords></keywords></content>
+<content id="Stripe Intentions_HD" type="1" name="" originalfps="30" frames="200" description="Animated Background" resolution="hd" resx="1920" resy="1080" base=""><keywords></keywords></content>
+<content id="Suburban Summer_HD" type="1" name="" originalfps="30" frames="600" description="Animated Background" resolution="hd" resx="1920" resy="1080" base=""><keywords></keywords></content>
+<content id="Surprising Revelation_HD" type="1" name="" originalfps="30" frames="600" description="Animated Background" resolution="hd" resx="1920" resy="1080" base=""><keywords></keywords></content>
+<content id="Tricky Footing_HD" type="1" name="" originalfps="30" frames="450" description="Animated Background" resolution="hd" resx="1920" resy="1080" base=""><keywords></keywords></content>
+</parent>
+</disc>
+<disc id="ACNV_V03D01D_R1" number="1">
+<parent id="Source">
+<content id="All Star_SD" type="1" name="" originalfps="60" frames="600" description="Animated Background" resolution="pal" resx="720" resy="576" base=""><keywords></keywords></content>
+<content id="Amber Rays_SD" type="1" name="" originalfps="60" frames="600" description="Animated Background" resolution="pal" resx="720" resy="576" base=""><keywords></keywords></content>
+<content id="Approaching Doom_SD" type="1" name="" originalfps="60" frames="1200" description="Animated Background" resolution="pal" resx="720" resy="576" base=""><keywords></keywords></content>
+<content id="Balloon Rise_SD" type="1" name="" originalfps="60" frames="1200" description="Animated Background" resolution="pal" resx="720" resy="576" base=""><keywords></keywords></content>
+<content id="Blending Pipes_SD" type="1" name="" originalfps="60" frames="900" description="Animated Background" resolution="pal" resx="720" resy="576" base=""><keywords></keywords></content>
+<content id="Bundle Of Joy_SD" type="1" name="" originalfps="60" frames="1200" description="Animated Background" resolution="pal" resx="720" resy="576" base=""><keywords></keywords></content>
+<content id="Center Of Attention_SD" type="1" name="" originalfps="60" frames="600" description="Animated Background" resolution="pal" resx="720" resy="576" base=""><keywords></keywords></content>
+<content id="Cloud Interference_SD" type="1" name="" originalfps="60" frames="1200" description="Animated Background" resolution="pal" resx="720" resy="576" base=""><keywords></keywords></content>
+<content id="Coin Collection_SD" type="1" name="" originalfps="60" frames="600" description="Animated Background" resolution="pal" resx="720" resy="576" base=""><keywords></keywords></content>
+<content id="Dazzling Moonlight_SD" type="1" name="" originalfps="60" frames="600" description="Animated Background" resolution="pal" resx="720" resy="576" base=""><keywords></keywords></content>
+<content id="Diagonal Slide_SD" type="1" name="" originalfps="60" frames="900" description="Animated Background" resolution="pal" resx="720" resy="576" base=""><keywords></keywords></content>
+<content id="Different Positions_SD" type="1" name="" originalfps="60" frames="600" description="Animated Background" resolution="pal" resx="720" resy="576" base=""><keywords></keywords></content>
+<content id="Firefly Goodbye_SD" type="1" name="" originalfps="60" frames="300" description="Animated Background" resolution="pal" resx="720" resy="576" base=""><keywords></keywords></content>
+<content id="Fitting Frames_SD" type="1" name="" originalfps="60" frames="600" description="Animated Background" resolution="pal" resx="720" resy="576" base=""><keywords></keywords></content>
+<content id="Flying Colors_SD" type="1" name="" originalfps="60" frames="1200" description="Animated Background" resolution="pal" resx="720" resy="576" base=""><keywords></keywords></content>
+<content id="Frame Impression_SD" type="1" name="" originalfps="60" frames="600" description="Animated Background" resolution="pal" resx="720" resy="576" base=""><keywords></keywords></content>
+<content id="French Parade_SD" type="1" name="" originalfps="60" frames="1200" description="Animated Background" resolution="pal" resx="720" resy="576" base=""><keywords></keywords></content>
+<content id="Garden Whispers_SD" type="1" name="" originalfps="60" frames="1200" description="Animated Background" resolution="pal" resx="720" resy="576" base=""><keywords></keywords></content>
+<content id="Happy Summer_SD" type="1" name="" originalfps="60" frames="900" description="Animated Background" resolution="pal" resx="720" resy="576" base=""><keywords></keywords></content>
+<content id="Heavenly Beam_SD" type="1" name="" originalfps="60" frames="600" description="Animated Background" resolution="pal" resx="720" resy="576" base=""><keywords></keywords></content>
+</parent>
+</disc>
+<disc id="ACNV_V03D02D_R1" number="2">
+<parent id="Source">
+<content id="Hiding Magic_SD" type="1" name="" originalfps="60" frames="600" description="Animated Background" resolution="pal" resx="720" resy="576" base=""><keywords></keywords></content>
+<content id="Higher Than The Sky_SD" type="1" name="" originalfps="60" frames="900" description="Animated Background" resolution="pal" resx="720" resy="576" base=""><keywords></keywords></content>
+<content id="Hue Progression_SD" type="1" name="" originalfps="60" frames="900" description="Animated Background" resolution="pal" resx="720" resy="576" base=""><keywords></keywords></content>
+<content id="I Put A Spell On You_SD" type="1" name="" originalfps="60" frames="600" description="Animated Background" resolution="pal" resx="720" resy="576" base=""><keywords></keywords></content>
+<content id="Magic Unleashed_SD" type="1" name="" originalfps="60" frames="300" description="Animated Background" resolution="pal" resx="720" resy="576" base=""><keywords></keywords></content>
+<content id="Restricted Area_SD" type="1" name="" originalfps="60" frames="1200" description="Animated Background" resolution="pal" resx="720" resy="576" base=""><keywords></keywords></content>
+<content id="Sahara Evenings_SD" type="1" name="" originalfps="60" frames="600" description="Animated Background" resolution="pal" resx="720" resy="576" base=""><keywords></keywords></content>
+<content id="Sea Outside_SD" type="1" name="" originalfps="60" frames="450" description="Animated Background" resolution="pal" resx="720" resy="576" base=""><keywords></keywords></content>
+<content id="Searchlights_SD" type="1" name="" originalfps="60" frames="600" description="Animated Background" resolution="pal" resx="720" resy="576" base=""><keywords></keywords></content>
+<content id="Sharp Stops_SD" type="1" name="" originalfps="60" frames="1200" description="Animated Background" resolution="pal" resx="720" resy="576" base=""><keywords></keywords></content>
+<content id="Shifting Midnight_SD" type="1" name="" originalfps="60" frames="900" description="Animated Background" resolution="pal" resx="720" resy="576" base=""><keywords></keywords></content>
+<content id="Slowly Spreading_SD" type="1" name="" originalfps="60" frames="600" description="Animated Background" resolution="pal" resx="720" resy="576" base=""><keywords></keywords></content>
+<content id="Smooth Ripples_SD" type="1" name="" originalfps="60" frames="300" description="Animated Background" resolution="pal" resx="720" resy="576" base=""><keywords></keywords></content>
+<content id="Soul Of Sin_SD" type="1" name="" originalfps="60" frames="900" description="Animated Background" resolution="pal" resx="720" resy="576" base=""><keywords></keywords></content>
+<content id="Square Resolution_SD" type="1" name="" originalfps="60" frames="900" description="Animated Background" resolution="pal" resx="720" resy="576" base=""><keywords></keywords></content>
+<content id="Star Attraction_SD" type="1" name="" originalfps="60" frames="600" description="Animated Background" resolution="pal" resx="720" resy="576" base=""><keywords></keywords></content>
+<content id="Start The Party_SD" type="1" name="" originalfps="60" frames="1200" description="Animated Background" resolution="pal" resx="720" resy="576" base=""><keywords></keywords></content>
+<content id="Strange Divisions_SD" type="1" name="" originalfps="60" frames="900" description="Animated Background" resolution="pal" resx="720" resy="576" base=""><keywords></keywords></content>
+<content id="Stripe Intentions_SD" type="1" name="" originalfps="60" frames="400" description="Animated Background" resolution="pal" resx="720" resy="576" base=""><keywords></keywords></content>
+<content id="Suburban Summer_SD" type="1" name="" originalfps="60" frames="1200" description="Animated Background" resolution="pal" resx="720" resy="576" base=""><keywords></keywords></content>
+<content id="Surprising Revelation_SD" type="1" name="" originalfps="60" frames="1200" description="Animated Background" resolution="pal" resx="720" resy="576" base=""><keywords></keywords></content>
+<content id="Tricky Footing_SD" type="1" name="" originalfps="60" frames="900" description="Animated Background" resolution="pal" resx="720" resy="576" base=""><keywords></keywords></content>
+</parent>
+</disc>
+</volume>
+</product>
