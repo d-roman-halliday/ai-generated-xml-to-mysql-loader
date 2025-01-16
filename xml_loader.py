@@ -9,9 +9,9 @@ root = tree.getroot()
 # MySQL connection
 db = mysql.connector.connect(
     host="localhost",
-    user="your_username",
-    password="your_password",
-    database="your_database"
+    user="xml_loader_example_user",
+    password="some_strong_password",
+    database="xml_loader_example"
 )
 cursor = db.cursor()
 
